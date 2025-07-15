@@ -15,7 +15,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const article = news.find((p) => p.id.toString() === params.id);
+  const awaitedParams = await params;
+  const article = news.find((p) => p.id.toString() === awaitedParams.id);
   if (!article) {
     return {
       title: 'Article Not Found',
@@ -43,8 +44,9 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function NewsArticlePage({ params }) {
-  const article = news.find((p) => p.id.toString() === params.id);
+export default async function NewsArticlePage({ params }) {
+  const awaitedParams = await params;
+  const article = news.find((p) => p.id.toString() === awaitedParams.id);
 
   if (!article) {
     notFound();
