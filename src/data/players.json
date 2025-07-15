@@ -1,0 +1,305 @@
+
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "country": "India",
+    "team": "Royal Challengers Bengaluru",
+    "stats": {
+      "Matches": 250,
+      "Runs": 8000,
+      "High Score": 113,
+      "Average": 38.5
+    },
+    "image": "https://images.unsplash.com/photo-1624193822910-a73257ce9e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwYmF0c21hbnxlbnwwfHx8fDE3NTI0ODA5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket batsman"
+  },
+  {
+    "id": 2,
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "country": "India",
+    "team": "Mumbai Indians",
+    "stats": {
+      "Matches": 130,
+      "Wickets": 150,
+      "Best Bowling": "5/10",
+      "Economy": 7.2
+    },
+    "image": "https://images.unsplash.com/photo-1709134800935-d00e89d5b8e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcmlja2V0JTIwYm93bGVyfGVufDB8fHx8fDE3NTI0ODA5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket bowler"
+  },
+  {
+    "id": 3,
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "team": "Kolkata Knight Riders",
+    "stats": {
+      "Matches": 120,
+      "Runs": 2500,
+      "Wickets": 100,
+      "Strike Rate": 180.5
+    },
+    "image": "https://images.unsplash.com/photo-1709134800827-6075efb1be1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcmlja2V0JTIwcGxheWVycyUyMGFjdGlvbnxlbnwwfHx8fDE3NTI0ODA5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket players action"
+  },
+  {
+    "id": 4,
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "country": "Afghanistan",
+    "team": "Gujarat Titans",
+    "stats": {
+      "Matches": 110,
+      "Wickets": 140,
+      "Best Bowling": "4/24",
+      "Economy": 6.5
+    },
+    "image": "https://images.unsplash.com/photo-1629285483773-63143e16065c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwc3Bpbm5lcnxlbnwwfHx8fDE3NTI1NjM3NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageHint": "cricket spinner"
+  },
+  {
+    "id": 5,
+    "name": "Jos Buttler",
+    "role": "Wicketkeeper-Batsman",
+    "country": "England",
+    "team": "Rajasthan Royals",
+    "stats": {
+      "Matches": 180,
+      "Runs": 5500,
+      "High Score": 124,
+      "Dismissals": 150
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket wicketkeeper"
+  },
+  {
+    "id": 6,
+    "name": "David Warner",
+    "role": "Batsman",
+    "country": "Australia",
+    "team": "Delhi Capitals",
+    "stats": {
+      "Matches": 220,
+      "Runs": 7200,
+      "High Score": 135,
+      "Average": 41.5
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket action"
+  },
+  {
+    "id": 7,
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "country": "West Indies",
+    "team": "Kolkata Knight Riders",
+    "stats": {
+      "Matches": 170,
+      "Wickets": 180,
+      "Economy": 6.8,
+      "Runs": 1200
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket bowler"
+  },
+  {
+    "id": 8,
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "country": "New Zealand",
+    "team": "Sunrisers Hyderabad",
+    "stats": {
+      "Matches": 160,
+      "Runs": 4800,
+      "High Score": 105,
+      "Average": 39.9
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket portrait"
+  },
+  {
+    "id": 9,
+    "name": "Pat Cummins",
+    "role": "Bowler",
+    "country": "Australia",
+    "team": "Kolkata Knight Riders",
+    "stats": {
+      "Matches": 90,
+      "Wickets": 110,
+      "Best Bowling": "4/15",
+      "Economy": 8.1
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket fast bowler"
+  },
+  {
+    "id": 10,
+    "name": "Quinton de Kock",
+    "role": "Wicketkeeper-Batsman",
+    "country": "South Africa",
+    "team": "Lucknow Super Giants",
+    "stats": {
+      "Matches": 150,
+      "Runs": 4500,
+      "High Score": 140,
+      "Dismissals": 130
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket batsman shot"
+  },
+  {
+    "id": 11,
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "country": "India",
+    "team": "Mumbai Indians",
+    "stats": {
+      "Matches": 140,
+      "Runs": 2800,
+      "Wickets": 80,
+      "Strike Rate": 150.2
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket all-rounder"
+  },
+  {
+    "id": 12,
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "team": "Rajasthan Royals",
+    "stats": {
+      "Matches": 115,
+      "Wickets": 135,
+      "Best Bowling": "4/18",
+      "Economy": 7.9
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket swing bowler"
+  },
+  {
+    "id": 13,
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "country": "South Africa",
+    "team": "Royal Challengers Bengaluru",
+    "stats": {
+      "Matches": 190,
+      "Runs": 6200,
+      "High Score": 96,
+      "Average": 35.1
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket player hitting"
+  },
+  {
+    "id": 14,
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "country": "India",
+    "team": "Rajasthan Royals",
+    "stats": {
+      "Matches": 160,
+      "Wickets": 190,
+      "Best Bowling": "5/40",
+      "Economy": 7.6
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket leg spinner"
+  },
+  {
+    "id": 15,
+    "name": "Glenn Maxwell",
+    "role": "All-Rounder",
+    "country": "Australia",
+    "team": "Royal Challengers Bengaluru",
+    "stats": {
+      "Matches": 155,
+      "Runs": 3500,
+      "Wickets": 50,
+      "Strike Rate": 165.7
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket dynamic action"
+  },
+  {
+    "id": 16,
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "country": "South Africa",
+    "team": "Punjab Kings",
+    "stats": {
+      "Matches": 95,
+      "Wickets": 120,
+      "Best Bowling": "4/21",
+      "Economy": 8.3
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket fast bowling"
+  },
+  {
+    "id": 17,
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "country": "India",
+    "team": "Mumbai Indians",
+    "stats": {
+      "Matches": 243,
+      "Runs": 6211,
+      "High Score": 109,
+      "Average": 30.3
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket aggressive batsman"
+  },
+  {
+    "id": 18,
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "country": "India",
+    "team": "Mumbai Indians",
+    "stats": {
+      "Matches": 139,
+      "Runs": 3249,
+      "High Score": 103,
+      "Average": 32.17
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket innovative batsman"
+  },
+  {
+    "id": 19,
+    "name": "KL Rahul",
+    "role": "Wicketkeeper-Batsman",
+    "country": "India",
+    "team": "Lucknow Super Giants",
+    "stats": {
+      "Matches": 118,
+      "Runs": 4163,
+      "High Score": 132,
+      "Average": 46.78
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket stylish batsman"
+  },
+  {
+    "id": 20,
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "country": "India",
+    "team": "Punjab Kings",
+    "stats": {
+      "Matches": 217,
+      "Runs": 6617,
+      "High Score": 106,
+      "Average": 35.39
+    },
+    "image": "https://placehold.co/400x600.png",
+    "imageHint": "cricket left-handed batsman"
+  }
+]
+
+    
