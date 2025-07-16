@@ -9,7 +9,7 @@
     "teamB": { "name": "Delhi Strikers", "logo": "/teams/team-logo-2.svg" },
     "venue": "Eden Gardens, Kolkata",
     "matchTime": "2024-10-26T14:00:00Z",
-    "image": "https://images.unsplash.com/photo-1635127725453-5f6ad32cbf92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMHN0YWRpdW18ZW58MHx8fHwxNzUyNDc5NjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648000/127775_5267_SSK_HCT_fc-web_owoith.webp",
     "imageHint": "cricket stadium"
   },
   {
@@ -21,7 +21,7 @@
     "teamB": { "name": "Punjab Warriors", "logo": "/teams/team-logo-4.svg" },
     "venue": "Wankhede Stadium, Mumbai",
     "matchTime": "2024-10-27T14:00:00Z",
-    "image": "https://images.unsplash.com/photo-1685541000847-f764510e2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMGFjdGlvbnxlbnwwfHx8fDE3NTI0Nzk2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648038/download_tpkmym.jpg",
     "imageHint": "cricket action"
   },
   {
@@ -34,7 +34,7 @@
     "venue": "M. Chinnaswamy Stadium, Bengaluru",
     "matchTime": "2024-10-22T14:00:00Z",
     "result": "Kings won by 6 wickets",
-    "image": "https://images.unsplash.com/photo-1672310708255-fc9b310fb6b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmYW5zJTIwY2hlZXJpbmd8ZW58MHx8fHwxNzUyNDc5NjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648092/download_iuhmeg.jpg",
     "imageHint": "fans cheering"
   },
   {
@@ -47,7 +47,7 @@
     "venue": "Brabourne Stadium, Mumbai",
     "matchTime": "2024-10-25T18:00:00Z",
     "statusText": "Blasters need 13 runs in 4 balls.",
-    "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwc3RhZGl1bXxlbnwwfHx8fDE3NTI1NjMwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648134/download_c9iyoz.jpg",
     "imageHint": "cricket stadium night"
   },
   {
@@ -58,7 +58,7 @@
     "teamA": { "name": "Mumbai Titans", "score": "184/5", "overs": "20.0 Ov" },
     "teamB": { "name": "Delhi Lions", "score": "172/8", "overs": "19.2 Ov" },
     "statusText": "Lions need 13 runs in 4 balls.",
-    "image": "https://images.unsplash.com/photo-1635127725453-5f6ad32cbf92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMHN0YWRpdW18ZW58MHx8fHwxNzUyNDc5NjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648169/download_inlkmp.jpg",
     "imageHint": "cricket stadium"
   },
   {
@@ -69,7 +69,7 @@
     "teamA": { "name": "Kolkata Knights", "score": "202/3", "overs": "20.0 Ov" },
     "teamB": { "name": "Punjab Warriors", "score": "150/2", "overs": "15.0 Ov" },
     "statusText": "Warriors need 53 runs in 30 balls.",
-    "image": "https://images.unsplash.com/photo-1685541000847-f764510e2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JpY2tldCUyMGFjdGlvbnxlbnwwfHx8fDE3NTI0Nzk2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648216/download_hbvgip.jpg",
     "imageHint": "cricket action"
   },
   {
@@ -80,7 +80,7 @@
     "teamA": { "name": "Rajasthan Royals", "score": "160/9", "overs": "20.0 Ov" },
     "teamB": { "name": "Chennai Kings", "score": "161/4", "overs": "18.5 Ov" },
     "result": "Kings won by 6 wickets.",
-    "image": "https://images.unsplash.com/photo-1672310708255-fc9b310fb6b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmYW5zJTIwY2hlZXJpbmd8ZW58MHx8fHwxNzUyNDc5NjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648092/download_iuhmeg.jpg",
     "imageHint": "fans cheering"
   },
   {
@@ -92,7 +92,7 @@
     "teamB": { "name": "Pakistan", "logo": "/teams/team-logo-pak.svg" },
     "venue": "Dubai International Stadium",
     "matchTime": "2024-11-01T14:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752475990/360_F_628272736_CYX1NPN9vZKHa6HboczMHKHc49C1boKf_d6ncs9.jpg",
     "imageHint": "cricket rivals"
   },
   {
@@ -104,7 +104,7 @@
     "teamB": { "name": "Bangladesh", "logo": "/teams/team-logo-ban.svg" },
     "venue": "Sharjah Cricket Stadium",
     "matchTime": "2024-11-02T14:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752486974/sri-lanka-vs-bangladesh-cricket-260nw-2474024973_q7ak4d.jpg",
     "imageHint": "cricket match"
   },
   {
@@ -116,7 +116,7 @@
     "teamB": { "name": "New Zealand", "logo": "/teams/team-logo-nz.svg" },
     "venue": "Sydney Cricket Ground",
     "matchTime": "2024-11-05T08:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752478098/karachi-pakistan-24-oct-2023-600nw-2379358289_y4zv5k.webp",
     "imageHint": "cricket stadium"
   },
   {
@@ -128,7 +128,7 @@
     "teamB": { "name": "Delhi Capitals", "logo": "/teams/team-logo-dc.svg" },
     "venue": "Rajiv Gandhi Intl. Stadium",
     "matchTime": "2024-11-08T14:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648512/download_yu8al0.jpg",
     "imageHint": "cricket league"
   },
   {
@@ -140,7 +140,7 @@
     "teamB": { "name": "Bangalore Challengers", "logo": "/teams/team-logo-rcb.svg" },
     "venue": "Ekana Cricket Stadium, Lucknow",
     "matchTime": "2024-11-10T14:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648621/download_dssaui.jpg",
     "imageHint": "cricket floodlights"
   },
   {
@@ -152,7 +152,7 @@
     "teamB": { "name": "England", "logo": "/teams/team-logo-eng.svg" },
     "venue": "Newlands, Cape Town",
     "matchTime": "2024-11-15T16:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752478215/south-africa-vs-england-cricket-match-template-vector_dgexmc.jpg",
     "imageHint": "cricket international"
   },
   {
@@ -163,7 +163,7 @@
     "teamA": { "name": "Quetta Gladiators", "score": "143/8", "overs": "20.0 Ov" },
     "teamB": { "name": "Islamabad United", "score": "144/2", "overs": "15.3 Ov" },
     "result": "United won by 8 wickets.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648710/download_avxqqa.jpg",
     "imageHint": "cricket celebration"
   },
   {
@@ -174,7 +174,7 @@
     "teamA": { "name": "Peshawar Zalmi", "score": "201/5", "overs": "20.0 Ov" },
     "teamB": { "name": "Multan Sultans", "score": "200/9", "overs": "20.0 Ov" },
     "result": "Zalmi won by 1 run.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648853/download_dxbgnj.jpg",
     "imageHint": "cricket tense moment"
   },
   {
@@ -185,7 +185,7 @@
     "teamA": { "name": "Delhi Lions", "score": "198/4", "overs": "20.0 Ov" },
     "teamB": { "name": "Chennai Kings", "score": "199/5", "overs": "19.4 Ov" },
     "result": "Kings won by 5 wickets.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648900/download_djjtfv.png",
     "imageHint": "cricket winning shot"
   },
   {
@@ -198,7 +198,7 @@
     "venue": "Gaddafi Stadium, Lahore",
     "matchTime": "2024-10-25T20:00:00Z",
     "statusText": "Gladiators need 69 runs in 48 balls.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752648710/download_avxqqa.jpg",
     "imageHint": "cricket stadium lights"
   },
   {
@@ -211,7 +211,7 @@
     "venue": "M. Chinnaswamy Stadium, Bengaluru",
     "matchTime": "2024-10-25T19:00:00Z",
     "statusText": "Challengers require 116 runs in 58 balls.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649066/rcb-srh-head_rwdsoq.jpg",
     "imageHint": "cricket action shot"
   },
   {
@@ -222,7 +222,7 @@
     "teamA": { "name": "South Africa", "score": "190/3", "overs": "20.0 Ov" },
     "teamB": { "name": "England", "score": "191/6", "overs": "19.5 Ov" },
     "result": "England won by 4 wickets.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752478215/south-africa-vs-england-cricket-match-template-vector_dgexmc.jpg",
     "imageHint": "cricket trophy"
   },
   {
@@ -233,7 +233,7 @@
     "teamA": { "name": "India", "score": "175/8", "overs": "20.0 Ov" },
     "teamB": { "name": "Sri Lanka", "score": "160/9", "overs": "20.0 Ov" },
     "result": "India won by 15 runs.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752473807/download_nt3v3n.jpg",
     "imageHint": "cricket scoreboard"
   },
   {
@@ -245,7 +245,7 @@
     "teamB": { "name": "Barbados Royals" },
     "venue": "Queen's Park Oval, Port of Spain",
     "matchTime": "2024-11-20T23:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649197/download_xhmjev.jpg",
     "imageHint": "caribbean cricket"
   },
   {
@@ -257,7 +257,7 @@
     "teamB": { "name": "Southern Brave" },
     "venue": "The Kia Oval, London",
     "matchTime": "2024-11-22T17:30:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649271/download_hktetp.jpg",
     "imageHint": "cricket The Hundred"
   },
   {
@@ -268,7 +268,7 @@
     "teamA": { "name": "Sydney Sixers", "score": "151/5", "overs": "20.0 Ov" },
     "teamB": { "name": "Perth Scorchers", "score": "152/3", "overs": "19.1 Ov" },
     "result": "Scorchers won by 7 wickets.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649342/download_ctae5n.jpg",
     "imageHint": "cricket Big Bash"
   },
   {
@@ -279,7 +279,7 @@
     "teamA": { "name": "Somerset", "score": "220/7", "overs": "20.0 Ov" },
     "teamB": { "name": "Lancashire", "score": "180/8", "overs": "20.0 Ov" },
     "result": "Somerset won by 40 runs.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649385/download_l2hxuq.jpg",
     "imageHint": "cricket T20 Blast"
   },
   {
@@ -291,7 +291,7 @@
     "teamB": { "name": "Canterbury Kings" },
     "venue": "Basin Reserve, Wellington",
     "matchTime": "2024-12-01T02:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649431/download_zwxner.jpg",
     "imageHint": "new zealand cricket"
   },
   {
@@ -304,7 +304,7 @@
     "venue": "R. Premadasa Stadium, Colombo",
     "matchTime": "2024-10-25T21:00:00Z",
     "statusText": "Kings need 66 runs in 36 balls.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649609/download_n5zzfi.png",
     "imageHint": "sri lanka cricket"
   },
   {
@@ -315,7 +315,7 @@
     "teamA": { "name": "Rajasthan Royals", "score": "215/2", "overs": "20.0 Ov" },
     "teamB": { "name": "Delhi Strikers", "score": "200/7", "overs": "19.0 Ov" },
     "statusText": "Strikers require 16 runs off 6 balls.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649662/download_jy99ao.jpg",
     "imageHint": "cricket tense finish"
   },
   {
@@ -327,7 +327,7 @@
     "teamB": { "name": "Chennai Kings" },
     "venue": "PCA Stadium, Mohali",
     "matchTime": "2024-11-25T14:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649702/download_urzvrr.jpg",
     "imageHint": "cricket pitch view"
   },
   {
@@ -338,7 +338,7 @@
     "teamA": { "name": "Mumbai Titans", "score": "180/8", "overs": "20.0 Ov" },
     "teamB": { "name": "Deccan Chargers", "score": "181/2", "overs": "17.4 Ov" },
     "result": "Chargers won by 8 wickets.",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649747/download_xlof76.jpg",
     "imageHint": "cricket batsman hitting"
   },
   {
@@ -350,7 +350,7 @@
     "teamB": { "name": "Vancouver Knights" },
     "venue": "CAA Centre, Brampton",
     "matchTime": "2024-11-28T20:00:00Z",
-    "image": "https://placehold.co/600x400.png",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752649875/download_thl5cf.jpg",
     "imageHint": "canada cricket"
   }
 ]
