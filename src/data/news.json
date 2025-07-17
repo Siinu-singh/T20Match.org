@@ -1,83 +1,82 @@
-
 [
   {
     "id": 1,
-    "title": "T20 World League Finals: Titans Clash with Strikers in a High-Stakes Thriller",
-    "summary": "The stage is set for an epic showdown as the Mumbai Titans and Delhi Strikers prepare to battle for the T20 World League championship. Both teams have shown incredible form throughout the tournament, and this final promises to be a nail-biter.",
-    "image": "https://images.unsplash.com/photo-1750716414482-6cd2a65e25e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcmlja2V0JTIwZmFuc3xlbnwwfHx8fDE3NTI1ODIyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "cricket fans",
-    "category": "Tournament News",
-    "date": "2024-10-24",
-    "content": "<p>The T20 World League final is here, and the excitement is palpable. The Mumbai Titans, known for their explosive batting lineup, will face the formidable Delhi Strikers, whose bowling attack has been a nightmare for opponents all season. The match, scheduled to be held at the iconic Eden Gardens, is expected to draw a massive crowd, with tickets selling out in record time.</p><p>Key players to watch include Titans' captain, Vikram Singh, who has been in scintillating form with the bat, and Strikers' lead pacer, Arjun Rao, who is the tournament's leading wicket-taker. The clash between these two titans of the game will be a spectacle in itself. As both teams vie for the coveted trophy, fans can expect a high-octane match filled with thrilling moments and spectacular plays.</p>"
+    "title": "Captain’s Call: T20 Leadership Tactics Decoded",
+    "summary": "In T20 cricket, a captain’s tactical instincts can make or break a game...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752657243/download_kfmz5f.jpg",
+    "imageHint": "captain giving signals",
+    "category": "Strategy",
+    "date": "2024-07-15",
+    "content": "Captain’s Call - T20 Leadership Tactics Decoded..."
   },
   {
     "id": 2,
-    "title": "Player Spotlight: The Rise of Young Gun Riyan Sharma",
-    "summary": "At just 20 years old, Riyan Sharma has taken the cricket world by storm with his explosive batting and agile fielding. We take a closer look at the journey of this rising star and what makes him a player to watch in the coming years.",
-    "image": "https://images.unsplash.com/photo-1624193634221-33b652971323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcmlja2V0JTIwYmF0c21hbnxlbnwwfHx8fDE3NTI0ODA5Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "cricket batsman",
-    "category": "Player Analysis",
-    "date": "2024-10-23",
-    "content": "<p>In a world of seasoned veterans, a new name is making headlines: Riyan Sharma. This 20-year-old prodigy has captivated audiences with his fearless approach to batting and his electrifying presence on the field. Hailing from a small town, Sharma's journey to the big leagues is a story of perseverance and raw talent. His ability to hit boundaries at will and his knack for taking stunning catches have made him a vital asset for his team.</p><p>Coaches and cricket pundits are all praise for his work ethic and his calm demeanor under pressure. As he continues to break records and win matches, one thing is clear: Riyan Sharma is not just a player for the future; he is a star of the present. This spotlight delves into his training regimen, his inspirations, and his aspirations for the future.</p>"
+    "title": "T20 Knockouts: Pressure Moments That Defined Champions",
+    "summary": "Pressure Moments That Defined Champions takes a thrilling look back...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752657294/download_xcr00q.jpg",
+    "imageHint": "cheering crowd",
+    "category": "Match Moments",
+    "date": "2024-07-10",
+    "content": "T20 Knockouts - Pressure Moments That Defined Champions..."
   },
   {
     "id": 3,
-    "title": "Tech in T20: How Data Analytics is Changing the Game",
-    "summary": "From predictive modeling to real-time performance tracking, technology is revolutionizing T20 cricket. Discover how teams are leveraging data to gain a competitive edge and how it is shaping the future of the sport.",
-    "image": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbmFseXRpY3MlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzUyNTgyMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "analytics dashboard",
-    "category": "Technology",
-    "date": "2024-10-22",
-    "content": "<p>The gentleman's game is getting a high-tech upgrade. T20 cricket, with its fast-paced nature, has become a fertile ground for technological innovation. Teams are now relying on sophisticated data analytics to make smarter decisions on and off the field. From analyzing a batsman's weak spots to predicting the outcome of a delivery, data is the new MVP.</p><p>This article explores the various technologies being employed, including player performance trackers, AI-powered strategy simulators, and advanced video analysis tools. We speak to data scientists and coaches who are at the forefront of this revolution to understand how they are turning raw numbers into match-winning strategies. The future of cricket is not just about brawn and skill; it's also about bytes and algorithms.</p>"
+    "title": "Fitness First: Inside a T20 Cricketer’s Routine",
+    "summary": "Inside a T20 Cricketer’s Routine explores the intense physical demands...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752657329/download_vnmolp.jpg",
+    "imageHint": "athlete training",
+    "category": "Fitness & Training",
+    "date": "2024-07-09",
+    "content": "Fitness First - Inside a T20 Cricketer’s Routine..."
   },
   {
     "id": 4,
-    "title": "Behind the Scenes: The Art of Pitch Curation for T20 Matches",
-    "summary": "Ever wondered what goes into preparing the perfect T20 pitch? It's a fine art that blends science and experience. Curators work tirelessly to create a surface that offers a fair contest between bat and ball, ensuring a thrilling spectacle for the fans.",
-    "image": "https://images.unsplash.com/photo-1743343179056-d235b33c4f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y3JpY2tldCUyMHN0b3JpZXN8ZW58MHx8fHwxNzUyNTgyMzY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "cricket pitch",
-    "category": "Inside Story",
-    "date": "2024-10-21",
-    "content": "<p>The 22-yard strip is the heart of any cricket match, and its preparation is a meticulous process. In T20s, the demand is for a pitch that encourages big hits while still offering something for the bowlers. This article takes you behind the scenes with some of the world's most renowned curators to uncover the secrets of their trade.</p><p>From soil composition and grass type to the amount of watering and rolling, every detail is crucial. We learn about how weather conditions affect the pitch and how curators adapt their methods to create different types of surfaces, from batting paradises to spin-friendly tracks. It's a fascinating look at the unsung heroes who lay the foundation for every exciting T20 match.</p>"
+    "title": "Fan Pulse: What Makes T20 the People’s Format?",
+    "summary": "What Makes T20 the People’s Format? captures why T20 cricket has become...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752657381/download_sr2ett.jpg",
+    "imageHint": "fan holding banner",
+    "category": "Fan Zone",
+    "date": "2024-07-08",
+    "content": "Fan Pulse - What Makes T20 the People’s Format?..."
   },
   {
     "id": 5,
-    "title": "The Evolution of T20 Batting: From Classic Shots to 360-Degree Mayhem",
-    "summary": "T20 cricket has completely transformed the art of batting. The classic textbook shots have made way for audacious, 360-degree strokeplay. This article traces the evolution of batting in the shortest format of the game.",
-    "image": "https://images.unsplash.com/photo-1599587630777-6398b14e6b52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmlja2V0JTIwc3dpcHxlbnwwfHx8fDE3NTI1NjI4ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "cricket innovation",
-    "category": "Analysis",
-    "date": "2024-10-20",
-    "content": "<p>The advent of T20 cricket has sparked a revolution in batting techniques. Players are no longer confined to the traditional coaching manual. Instead, they have developed an arsenal of innovative shots like the scoop, the switch hit, and the ramp shot to counter the ever-evolving strategies of bowlers. This article examines how players like AB de Villiers, Suryakumar Yadav, and Jos Buttler have redefined what's possible with a bat in hand.</p><p>We analyze the biomechanics of these unconventional shots and discuss how they have forced bowlers to rethink their lines and lengths. The result is a dynamic and thrilling contest between bat and ball, where creativity and audacity are rewarded. The 360-degree batsman is the new norm, and the game is all the more exciting for it.</p>"
+    "title": "Power Play: How Big Hitters Redefine the T20 Game",
+    "summary": "In T20 cricket, the Power Play has become a make-or-break phase...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752667170/download_xwerif.jpg",
+    "imageHint": "Batter launching a six, fireworks in background",
+    "category": "T20 Strategy / Batting",
+    "date": "2024-07-08",
+    "content": "Power Play - How Big Hitters Redefine the T20 Game..."
   },
   {
     "id": 6,
-    "title": "The Unsung Heroes: Life as a Domestic T20 Cricketer",
-    "summary": "While international stars bask in the limelight, thousands of domestic cricketers form the backbone of the sport. This is a story about their struggles, their passion, and their relentless pursuit of a dream.",
-    "image": "https://images.unsplash.com/photo-1629272339851-4a18ea528148?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsb2NhbCUyMGNyaWNrZXR8ZW58MHx8fHwxNzUyNTgyNTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "local cricket",
-    "category": "Human Story",
-    "date": "2024-10-19",
-    "content": "<p>For every superstar cricketer who graces the international stage, there are countless others toiling away in the domestic circuit. These are the unsung heroes of the game, who play with the same passion and dedication but without the fame and fortune. This article sheds light on the challenges and triumphs of being a domestic T20 player.</p><p>From grueling travel schedules and modest paychecks to the constant pressure to perform, their journey is fraught with uncertainty. Yet, their love for the game keeps them going. We share inspiring stories of players who have overcome adversity to make a mark in leagues around the world, proving that a dream, when chased with relentless spirit, can indeed come true.</p>"
+    "title": "Spin Wizardry: The Art of Turning Matches in T20",
+    "summary": "In the fast-paced world of T20 cricket, spinners have carved a unique niche...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752667195/download_iyrals.jpg",
+    "imageHint": "Spinner in action, ball turning dramatically",
+    "category": "T20 Strategy / Bowling",
+    "date": "2024-07-09",
+    "content": "Spin Wizardry - The Art of Turning Matches in T20..."
   },
   {
     "id": 7,
-    "title": "Fantasy Leagues: A Fan's Guide to Building a Winning T20 Team",
-    "summary": "Fantasy cricket has added a new dimension to how fans engage with the sport. Building a winning T20 fantasy team requires a blend of cricketing knowledge, strategic thinking, and a bit of luck. Here's your guide to getting started.",
-    "image": "https://images.unsplash.com/photo-1556320997-b7c5bc412acc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmYW50YXN5JTIwc3BvcnRzfGVufDB8fHx8MTc1MjU4MjY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "fantasy sports",
-    "category": "Fan Zone",
-    "date": "2024-10-17",
-    "content": "<p>The thrill of T20 cricket is no longer limited to just watching the matches. Fantasy leagues allow fans to step into the shoes of a team selector and create their own dream team. But how do you build a team that consistently scores points and wins you bragging rights among your friends? This guide breaks down the essentials of fantasy T20 cricket.</p><p>We cover everything from player selection strategies and budget management to choosing the right captain and vice-captain. We also analyze how factors like player form, pitch conditions, and opposition strength should influence your decisions. Whether you're a seasoned fantasy pro or a complete novice, these tips will help you up your game and experience T20 cricket like never before.</p>"
+    "title": "The Finisher’s Mindset: Thriving Under Last-Over Pressure",
+    "summary": "In T20 cricket, finishers are the calm amidst chaos—thriving when pressure peaks...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752667232/download_vpccej.jpg",
+    "imageHint": "Player celebrating a last-ball win, scoreboard behind",
+    "category": "T20 Psychology / Match Moments",
+    "date": "2024-07-10",
+    "content": "The Finisher’s Mindset - Thriving Under Last-Over Pressure..."
   },
   {
     "id": 8,
-    "title": "The Rivalry: A Look Back at the Most Iconic T20 Clashes",
-    "summary": "Cricket is a game of rivalries, and in T20s, they are at their fiercest. This article relives some of the most iconic clashes that have defined the shortest format of the game, from India vs. Pakistan thrillers to Ashes T20 battles.",
-    "image": "https://images.unsplash.com/photo-1685541000847-f764510e2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmlja2V0JTIwcml2YWxyeXxlbnwwfHx8fDE3NTI1ODI2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "imageHint": "cricket rivalry",
-    "category": "History",
-    "date": "2024-10-16",
-    "content": "<p>Some cricket matches are more than just a game; they are a battle for pride, passion, and history. The T20 format has given rise to some of the most intense rivalries in the sport. This article takes a nostalgic trip down memory lane to revisit the most unforgettable T20 encounters.</p><p>We look back at the nail-biting finishes, the individual heroics, and the moments of controversy that have made these matches legendary. From the inaugural T20 World Cup final between India and Pakistan to the fiery contests in the Ashes and the IPL, these games have provided fans with memories that will last a lifetime. It's a celebration of the rivalries that make T20 cricket the spectacle that it is.</p>"
+    "title": "Beyond the Boundary: T20’s Influence on Modern Cricket Culture",
+    "summary": "T20 cricket has transformed the game far beyond the field...",
+    "image": "https://res.cloudinary.com/dsot4ovxb/image/upload/v1752667262/images_jbbsr9.jpg",
+    "imageHint": "Fans in colorful attire, DJs, dancers, digital displays",
+    "category": "T20 Culture / Fan Experience",
+    "date": "2024-07-11",
+    "content": "Beyond the Boundary - T20’s Influence on Modern Cricket Culture..."
   }
 ]
